@@ -55,7 +55,7 @@ I'm passionate about building innovative software and exploring the intersection
 
 | GitHub Stats | Top Languages |
 |---------------|---------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=hlum&theme=radical&hide_border=true&show_icons=true&count_private=true&hide_title=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlum&theme=radical&hide_border=true&layout=compact&langs_count=8&hide_progress=true&hide_title=true" /> |
+| <img src="https://24cm0138.main.jp/php/public/index.php/api/stats?username=hlum&theme=dark&hide_title=true&hide_border=true" /> | <img src="https://24cm0138.main.jp/php/public/index.php/api/top-langs?username=hlum&theme=dark&hide_title=true&hide_border=true" /> |
 ---
 
 ## 🏆 Featured Projects

@@ -36,15 +36,8 @@ I'm passionate about building innovative software and exploring the intersection
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Tools & Platforms
-<p align="left">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,git,docker,firebase,figma,postman,linux,ps" />
 </p>
 
 ---

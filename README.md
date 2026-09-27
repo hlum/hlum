@@ -13,6 +13,7 @@ I also work on IoT projects with ESP32 and Arduino.
 | --- | --- | --- |
 | [**Understand Me**](https://github.com/hlum/Understand-Me--IOS-) | Graduation project. Generates quizzes from a student's own repository so teachers can check that students understand the code they submit. Includes an [API server](https://github.com/hlum/UnderstandMe-Server-Side), a [teacher dashboard](https://github.com/hlum/understand-me-teacher-side) and an [Android app](https://github.com/hlum/UnderstandMe-Android). | Swift · PHP · TypeScript · Kotlin |
 | [**cleanX**](https://github.com/hlum/cleanX) | Interactive CLI that finds the disk space Xcode uses, explains each item and cleans it up safely. | Shell |
+| [**ytdl**](https://github.com/hlum/ytdl-Downloads-videos-from-every-websites) | Interactive menus for [yt-dlp](https://github.com/yt-dlp/yt-dlp): download video, audio and subtitles without memorizing flags. | Python |
 | [**BunnyBank**](https://hlum.github.io/bunnybank-site/) | iOS app, with its website, support and privacy pages. | Swift · HTML |
 | [**Mac Floating Lyric**](https://github.com/hlum/Mac-Floating-Lyric) | Always-on-top synced lyrics for Apple Music on macOS. | Swift |
 | [**Vibe**](https://github.com/hlum/Vibe) | Music player that downloads songs from YouTube for offline listening. | Swift |
